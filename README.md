@@ -18,7 +18,7 @@
 |Bootstrap ||   
 
 **What is this project about ?**
-- In this project user can get any current country detail from certain api-server and can find a link which takes the user google map.
+- 
 
 
 
