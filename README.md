@@ -4,7 +4,7 @@
 **How does my project look**
 
 
-![Video_240201005720](https://github.com/kaplanh/Synchronous-Asynchronous-Programming/assets/101884444/96410212-c860-4320-a0c7-d54dd0a67b62)
+![github followers](https://github.com/kaplanh/github-followers/assets/101884444/53c26f47-ffaf-45f0-bb7d-733eb06fe7a3)
 
 [Live link!](https://kaplanh.github.io/github-followers/)
 
