@@ -25,7 +25,7 @@ async function getData(username) {
     // console.log(response);
 
     if (response.ok) {
-      const data = await response.json();
+      return const data = await response.json();
       console.log(data);
       data.forEach((user) => createElem(user));
     } else {
